@@ -1,0 +1,18 @@
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\bin\Debug\Automated Attendance System.exe.config
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\bin\Debug\Automated Attendance System.exe
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\bin\Debug\Automated Attendance System.pdb
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.ADD_STUDENT.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.ADD_TEACHER.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.ADMIN.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.LOGIN.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.Properties.Resources.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.STUDENT.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.TEACHER.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated Attendance System.csproj.GenerateResource.Cache
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated Attendance System.exe
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated Attendance System.pdb
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.CHANGE_PASSWORD.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.UPDATE_ATTENDANCE.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.VIEW_ATTENDANCE.resources
+C:\Users\KrutantaK\Desktop\Projects\Automated Attendance System\Automated Attendance System\obj\Debug\Automated_Attendance_System.Form1.resources

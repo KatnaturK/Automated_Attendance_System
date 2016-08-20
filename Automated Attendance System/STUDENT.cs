@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Automated_Attendance_System
+{
+    public partial class STUDENT : Form
+    {
+        string userid;
+        public STUDENT(string userid)
+        {
+            InitializeComponent();
+            this.userid = userid;
+        }
+
+        private void STUDENT_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Hide();
+            LOGIN ss = new LOGIN();
+            ss.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Hide();
+            CHANGE_PASSWORD ss = new CHANGE_PASSWORD(userid, "STUDENT");
+            ss.Show();
+        }
+    }
+}
